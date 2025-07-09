@@ -48,10 +48,11 @@ public class CurrencyConverter {
 }
 
 
-OUTPUT:
+/* OUTPUT:
  
 Available currencies: [JPY, EUR, GBP, USD, INR]
 Enter base currency (e.g. USD): USD
 Enter target currency (e.g. EUR): INR
 Enter amount in USD: 100
 Converted amount: 7450.00 INR
+*/    
