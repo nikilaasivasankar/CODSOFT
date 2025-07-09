@@ -104,7 +104,7 @@ public class ATMInterface {
 
 
 
-OUTPUT:
+/* OUTPUT:
 
  --- ATM Menu ---
 1. Check Balance
@@ -139,3 +139,4 @@ Withdrew: $200.0
 4. Exit
 Enter your choice: 4
 Thank you for using the ATM.
+*/    
